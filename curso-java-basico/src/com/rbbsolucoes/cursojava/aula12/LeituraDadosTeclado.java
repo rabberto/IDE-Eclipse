@@ -34,6 +34,7 @@ public class LeituraDadosTeclado {
 		System.out.println("Altura: " + altura);
 		System.out.println("Tem bichinho de estimação: " + temPet);
 		
+		System.out.println("Se eu digitar sout+crtl+space ele ja adiciona o System.out.println()");
 	}
 
 }
